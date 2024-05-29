@@ -1,6 +1,6 @@
 # Algorithm Design and Analysis
 
-# Introduction to Algorithm Design: Crafting Efficient Solutions
+## Introduction to Algorithm Design: Crafting Efficient Solutions
 
 Welcome to the Algorithm Design course, where we delve into the art and science of creating algorithms that solve problems effectively and efficiently. This course is designed to equip you with the knowledge and skills to design, analyze, and implement algorithms that are fundamental to computer science.
 
@@ -38,3 +38,4 @@ By the end of this course, you will have a comprehensive understanding of how al
 
 
 ## References
+1. **Introduction to Algorithms**, fourth edition (2022), Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein. MIT Press, 1312 pages
