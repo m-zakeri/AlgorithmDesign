@@ -32,7 +32,9 @@ By the end of this course, you will have a comprehensive understanding of how al
 
 ### Teaching Assistants
 
-*  
+*  Zahra Habibolah ([GitHub](https://github.com/zahrahabibolah))
+*  Mehran Kasipour ([GitHub](https://github.com/Mehran-KC))
+*  Amin Mastori ([GitHub](https://github.com/Amin-mastori))
 
 
 ## References
